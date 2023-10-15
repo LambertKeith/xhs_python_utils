@@ -1,0 +1,59 @@
+
+[
+    {
+        "name": "Bing",
+        "type": "chat mode",
+        "capabilities": [
+            "search web",
+            "graphic art",
+            "generate content"
+        ],
+        "settings": {
+            "mode": "Balanced",
+            "language": "中文"
+        },
+        "fun fact": "Bing is short for 'Because It's Not Google'"
+    },
+    {
+        "name": "Siri",
+        "type": "voice assistant",
+        "capabilities": [
+            "set reminders",
+            "play music",
+            "answer questions"
+        ],
+        "settings": {
+            "voice": "Female",
+            "language": "English"
+        },
+        "fun fact": "Siri is an acronym for 'Speech Interpretation and Recognition Interface'"
+    },
+    {
+        "name": "Alexa",
+        "type": "smart speaker",
+        "capabilities": [
+            "control smart devices",
+            "order products",
+            "play games"
+        ],
+        "settings": {
+            "wake word": "Alexa",
+            "language": "English"
+        },
+        "fun fact": "Alexa is named after the ancient library of Alexandria"
+    },
+    {
+        "name": "Doraemon",
+        "type": "robot cat",
+        "capabilities": [
+            "travel through time",
+            "use gadgets from the future",
+            "help Nobita"
+        ],
+        "settings": {
+            "color": "Blue",
+            "language": "Japanese"
+        },
+        "fun fact": "Doraemon is afraid of mice"
+    }    
+]
